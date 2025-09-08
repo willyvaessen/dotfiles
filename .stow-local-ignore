@@ -1,4 +1,7 @@
-^\.git($|/)
-(^|/)README(\.md)?$
 (^|/)readme(\.md)?$
-^\.stow-local-ignore$
+(^|/)\.git(/|$)
+(^|/)\.gitignore$
+(^|/)\.stow-local-ignore$
+(^|/)\.github(/|$)
+(^|/)README\.md$
+(^|/)LICENSE$
