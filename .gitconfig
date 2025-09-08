@@ -1,3 +1,9 @@
 [user]
 	name = Willy Vaessen
 	email = github@willyvaessen.nl
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[init]
+	defaultBranch = main
