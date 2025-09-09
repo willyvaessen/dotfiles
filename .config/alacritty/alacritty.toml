@@ -34,7 +34,7 @@ family = "JetBrains Mono"
 style = "Italic"
 
 [font.normal]
-family = "JetBrains Mono Nerd Font"
+family = "JetBrains Mono"
 style = "Regular"
 
 [scrolling]
